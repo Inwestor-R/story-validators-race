@@ -18,6 +18,7 @@ usage() {
   echo "Usage: $0 <command>"
   echo "  Available commands:"
   echo "  install - Installing new instance and starting it"
+  echo "  create - Create new validator with 1 IP"
   echo "  update - Update existing instance"
   echo "  address - Print public keys - Addresses"
   echo "  start - Starting validator"
